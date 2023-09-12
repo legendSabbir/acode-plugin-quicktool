@@ -1,0 +1,5 @@
+.vscode
+package.json
+package-lock.json
+script.sh
+webpack.config.js
